@@ -1,0 +1,23 @@
+body{
+	margin: 0 auto;
+	background-color: lightblue;
+	background-size: 100%;
+	margin-bottom: 100px;
+	background-attachment: fixed;
+}
+
+.loginbox{
+    width: 1200px;
+	height: 1200px;
+	background: #000000;
+	color: #ffffff;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-42%);
+	box-sizing: border-box;
+	padding: 20px 40px;
+    border-radius:10%;
+    top: 80%;
+}
+
+

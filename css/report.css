@@ -1,0 +1,50 @@
+body{
+	margin: 0 auto;
+	background-color: lightblue;
+	background-size: 100%;
+	margin-bottom: 100px;
+}
+
+.tab{
+	width: 50%;
+}
+
+h1{
+	text-align:center;
+}
+
+
+.reportmenutable{
+	font-size:30px;
+	
+  }
+  
+  .reportmenutable td{
+	padding:10px;
+	text-align: left;
+  }
+  .reportgobutton{
+	border: none;
+	border-radius: 50px;
+	cursor:pointer;
+	font-weight: bold;
+	font-size: 20px;
+	background-color:#008a2c ;
+	height: 40px;
+	width: 100px;
+	color: #e1f010;
+  }
+  
+  .reportgobutton:hover{
+	background-color:#1d6b36 ;
+	border-radius: 50px;
+  
+  }
+
+  .homebutton{
+	  margin-top: -30px;
+	  height: 40px;
+	  width:80px;
+	  font-size: 25px;
+	  background-color:#008a2c ;
+  }
